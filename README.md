@@ -5,3 +5,5 @@ Content Page:
 1. What Is Animation?
 2. How To Animate Easily
 3. Animation Snippet Diaries
+
+Anyway, have fun reading!
